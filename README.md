@@ -16,9 +16,5 @@ The content of this workshop is licensed under CC-BY-NC-4.0. Feel free to share 
 
 The code, including the code of the site itself and the code in the exercises, are licensed under Apache 2.0.
 
-# Attributions
-
-Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-
 [fem]: https://frontendmasters.com/
-[course]: https://frontendmasters.github.io/grid-flexbox-v2
+[course]: https://frontendmasters.github.io/javascript-fundamentals-v3/
